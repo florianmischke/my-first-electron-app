@@ -1,0 +1,20 @@
+{
+  "name": "my-first-electron-app",
+  "version": "0.0.1",
+  "description": "simple shutdown timer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Flom",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.8"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  }
+}
